@@ -1,0 +1,18 @@
+Recieved message: 1-1, at step: 17488
+Recieved message: 1-2, at step: 17819
+Recieved message: 1-3, at step: 30222
+Recieved message: 1-4, at step: 34623
+Recieved message: 1-5, at step: 35886
+Recieved message: 1-6, at step: 38861
+Recieved message: 1-7, at step: 44155
+Recieved message: 1-8, at step: 64213
+Recieved message: 1-9, at step: 66804
+Recieved message: 1-10, at step: 88820
+Recieved message: 1-11, at step: 109515
+Recieved message: 1-12, at step: 114513
+Recieved message: 1-13, at step: 116581
+Recieved message: 1-14, at step: 128834
+Recieved message: 1-15, at step: 133106
+Recieved message: 1-16, at step: 143037
+Ending simulation: Last step: 150000
+Total messages completed: 0 out of 1

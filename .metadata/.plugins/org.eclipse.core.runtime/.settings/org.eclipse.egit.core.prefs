@@ -1,3 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/bria/git/tptpParser/.git\:/home/bria/git/MolComSim/.git\:/home/bria/git/5alarm/.git\:
-RepositorySearchDialogSearchPath=/home/bria/git
+GitRepositoriesView.GitDirectories=/Users/pyente/Github/MolComKit/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:
+RepositorySearchDialogSearchPath=/Users/pyente/Github/MolComKit
 eclipse.preferences.version=1
